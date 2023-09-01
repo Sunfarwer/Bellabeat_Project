@@ -1,0 +1,4 @@
+
+Bellabeat Project Changelog
+- convert format data in sleepDay_merged file, sleppday column from "general" to "date"
+- convert date formate in sleepDay_merged file and weightLogInfo_merged.csv to date "mmddyyyy"
