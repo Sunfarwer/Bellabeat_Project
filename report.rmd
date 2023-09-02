@@ -215,24 +215,3 @@ From these insight We might create campaign that encourage people to use health 
 1. Since you have the "spring" product that tracks daily water intake, it would be good if you tie in this product with in other product's marketing campaign. It might bring new interested insights.
 
 2. For weight log table, since weight data is depend on user responsible for manually measure and record it. If you plan to produce product that collect weight you might have to think about how you can remind user to usually measure their and record their own data.
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
- 
- 
- 
-
